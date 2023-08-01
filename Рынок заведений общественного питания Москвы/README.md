@@ -1,2 +1,14 @@
-# Practicum_Overall
-In this repository I will post all my independent selfmade projects. So please study the code if it is useful for you!
+# Исследования рынка общепита в Москве для принятия решения об открытии нового заведения
+**Задачи проекта:**
+
+Исследование рынка общественного питания на основе открытых данных, подготовка презентации.
+
+**Примененные навыки:**
+
+- Python
+- Pandas
+- Seaborn
+- Plotly
+- Предобработка данных
+- Исследовательский анализ данных
+- Визуализация данных

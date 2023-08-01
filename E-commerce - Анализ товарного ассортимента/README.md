@@ -1,2 +1,19 @@
-# Practicum_Overall
-In this repository I will post all my independent selfmade projects. So please study the code if it is useful for you!
+# E-commerce - Анализ товарного ассортимента
+**Задачи проекта:**
+
+Провести анализ ассортимента интернет-магазина, выявить профили клиентов, а также их сегментация и анализ, сформулировать рекомендации.
+
+**Примененные навыки:**
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Sklearn
+- Машинное обучение
+- Кластеризация
+- Предобработка данных
+- Исследовательский анализ данных
+- Визуализация данных
+- A/B тестирование

@@ -1,2 +1,8 @@
-# Practicum_Overall
-In this repository I will post all my independent selfmade projects. So please study the code if it is useful for you!
+# Исследование надёжности заёмщиков — анализ банковских данных
+**Задачи проекта:**
+На основе статистики о платёжеспособности клиентов исследовать влияет ли семейное положение и количество детей клиента на факт возврата кредита в срок
+**Примененные навыки:**
+
+- Python
+- Pandas
+- Предобработка данных

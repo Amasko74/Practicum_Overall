@@ -1,2 +1,11 @@
-# Practicum_Overall
-In this repository I will post all my independent selfmade projects. So please study the code if it is useful for you!
+# Исследование базы данных сервиса Stackoverflow
+**Задачи проекта:**
+
+Исследовать предоставленные данные, сформировать требуемые выгрузки данных с помощью SQL, посчитать различные продуктовые метрики и визуализировать их.
+
+**Примененные навыки:**
+
+- SQL
+- Python
+- SQLAlchemy
+- Pandas

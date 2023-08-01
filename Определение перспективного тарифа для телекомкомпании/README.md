@@ -1,2 +1,17 @@
-# Practicum_Overall
-In this repository I will post all my independent selfmade projects. So please study the code if it is useful for you!
+# Определение выгодного тарифа для телеком компании
+**Задачи проекта:**
+
+Исследование поведения пользователей сервиса аренды самокатов
+
+**Примененные навыки:**
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Nympy
+- Предобработка данных
+- Исследовательский анализ данных
+- Визуализация данных
+- Продуктовые метрики
+- Проверка статистических гипотез
